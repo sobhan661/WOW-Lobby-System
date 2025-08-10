@@ -1,0 +1,47 @@
+{
+  "FarmMythic": {
+    "name": "FarmMythic",
+    "leader": "Sobhan",
+    "required_rating": 2000,
+    "members": {
+      "Tank": "Sobhan",
+      "Healer": "Armin",
+      "DPS": [
+        "Amir",
+        "Ali",
+        "Mohammad"
+      ]
+    },
+    "created_at": "2025-06-05T21:29:18.221735"
+  },
+  "FarmEpic": {
+    "name": "FarmEpic",
+    "leader": "Hasan",
+    "required_rating": 2800,
+    "members": {
+      "Tank": "Ken",
+      "Healer": null,
+      "DPS": [
+        "Hasan",
+        "Sara",
+        "Nasim"
+      ]
+    },
+    "created_at": "2025-06-05T21:31:44.468474"
+  },
+  "FarmNormal": {
+    "name": "FarmNormal",
+    "leader": "Alireza",
+    "required_rating": 2500,
+    "members": {
+      "Tank": null,
+      "Healer": "Alireza",
+      "DPS": [
+        "Omid",
+        null,
+        null
+      ]
+    },
+    "created_at": "2025-06-05T21:53:14.806651"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "Amir": {
+    "password": "12345678",
+    "email": "Amir@gmail.com",
+    "role": "DPS",
+    "rating": 2500,
+    "created_at": "2025-06-05T21:25:15.458010"
+  },
+  "Ali": {
+    "password": "12345678",
+    "email": "Ali@gmail.com",
+    "role": "DPS",
+    "rating": 2300,
+    "created_at": "2025-06-05T21:25:36.298465"
+  },
+  "Mohammad": {
+    "password": "12345678",
+    "email": "Mohammad@gmail.com",
+    "role": "DPS",
+    "rating": 2000,
+    "created_at": "2025-06-05T21:26:08.514464"
+  },
+  "Armin": {
+    "password": "12345678",
+    "email": "Armin@gmail.com",
+    "role": "Healer",
+    "rating": 2800,
+    "created_at": "2025-06-05T21:27:08.587849"
+  },
+  "Sobhan": {
+    "password": "12345678",
+    "email": "Sobhan@gmail.com",
+    "role": "Tank",
+    "rating": 2600,
+    "created_at": "2025-06-05T21:28:13.656261"
+  },
+  "Hasan": {
+    "password": "12345678",
+    "email": "Hasan@gmail.com",
+    "role": "DPS",
+    "rating": 3000,
+    "created_at": "2025-06-05T21:31:19.465712"
+  },
+  "Sara": {
+    "password": "12345678",
+    "email": "Sara@gmail.com",
+    "role": "DPS",
+    "rating": 2900,
+    "created_at": "2025-06-05T21:50:47.516371"
+  },
+  "Nasim": {
+    "password": "12345678",
+    "email": "Nasim@gmail.com",
+    "role": "DPS",
+    "rating": 3100,
+    "created_at": "2025-06-05T21:51:51.790334"
+  },
+  "Alireza": {
+    "password": "12345678",
+    "email": "Alireza@gmail.com",
+    "role": "Healer",
+    "rating": 2500,
+    "created_at": "2025-06-05T21:52:48.084358"
+  },
+  "Omid": {
+    "password": "12345678",
+    "email": "Omid@gmail.com",
+    "role": "DPS",
+    "rating": 3100,
+    "created_at": "2025-06-05T21:53:53.420265"
+  },
+  "Ken": {
+    "password": "12345678",
+    "email": "Ken@gmail.com",
+    "role": "Tank",
+    "rating": 3000,
+    "created_at": "2025-06-05T21:54:40.454564"
+  },
+  "AmirHossien": {
+    "password": "12345678",
+    "email": "amir@gmail.com",
+    "role": "Tank",
+    "rating": 3999,
+    "created_at": "2025-07-17T13:56:52.992172"
+  }
+}
